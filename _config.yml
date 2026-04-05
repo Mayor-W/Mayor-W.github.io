@@ -9,7 +9,7 @@
 # Site Settings
 locale                   : "en-US"
 site_theme               : "Lizeng Wang" 
-title                    : "Your Name / Site Title"
+title                    : "Lizeng Wang"
 title_separator          : "-"
 name                     : &name "Lizeng Wang"
 description              : &description "Personal website"   
