@@ -13,7 +13,7 @@ title                    : "Lizeng Wang"
 title_separator          : "-"
 name                     : &name "Lizeng Wang"
 description              : &description "Personal website"   
-url                      : https://mayor-w.github.io                                                   "
+url                      : https://mayor-w.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Mayor-W/Mayor-W.github.io"
 
