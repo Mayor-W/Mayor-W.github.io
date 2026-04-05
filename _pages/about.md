@@ -9,9 +9,9 @@ redirect_from:
 
 <style>
   .qrcode-img {
-    width: 250px;       /* 控制二维码的大小，你可以根据需要调整这个数值 */
+    width: 150px;       /* 控制二维码的大小，你可以根据需要调整这个数值 */
     display: block;     /* 将图片转换为块级元素，这是使用 auto 居中的前提 */
-    margin: 20px auto;  /* 上下保留 20px 间距，左右 auto 自动平分实现居中 */
+    margin: 10px auto;  /* 上下保留 20px 间距，左右 auto 自动平分实现居中 */
     border: none;       /* 明确移除任何可能存在的边框 */
   }
 </style>
