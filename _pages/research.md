@@ -56,12 +56,12 @@ author_profile: true
 &emsp;&emsp;<i>[Acta Geodaetica et Cartographica Sinica](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2022.20220125) </i>(测绘学报), 2022.<br>
 
 ## Talks
-\[1] &nbsp; 调和深度学习与时空异质性方法谱系与未来路径 (in Chinese). 第二十届中国地理信息科学理论与方法学术年会（专题报告）, 厦门, 2025.11.  
-\[2] &nbsp; 时空智能集成预测方法 (in Chinese). "人工智能时代的中国地理学" 第二届全国信息地理学大会（专题报告）, 成都, 2025.8.  
-\[3] &nbsp; 时空智能集成预测方法 (in Chinese). 中国地理学会地理模型与地理信息分析专业委员会2025年学术年会（专题报告）, 杭州, 2025.4.  
+\[1] &nbsp; 调和深度学习与时空异质性方法谱系与未来路径. 第二十届中国地理信息科学理论与方法学术年会（专题报告）, 厦门, 2025.11.  
+\[2] &nbsp; 时空智能集成预测方法. "人工智能时代的中国地理学" 第二届全国信息地理学大会（专题报告）, 成都, 2025.8.  
+\[3] &nbsp; 时空智能集成预测方法. 中国地理学会地理模型与地理信息分析专业委员会2025年学术年会（专题报告）, 杭州, 2025.4.  
 \[4] &nbsp; Automated spatiotemporal graph ensemble learning for traffic prediction (Poster). Transportation Research Symposium (TRS 2025), Rotterdam, 2025.5.  
-\[5] &nbsp; 顾及地理空间异质性的集成学习方法研究 (in Chinese). 第十九届中国地理信息科学理论与方法学术年会（专题报告）, 西安, 2024.10.  
-\[6] &nbsp; 矩阵引导的可解释性时空集成预测方法 (in Chinese). 第十九届中国地理信息科学理论与方法学术年会（<font color="red">学生论文竞赛特等奖</font>）, 西安, 2024.10.  
+\[5] &nbsp; 顾及地理空间异质性的集成学习方法研究. 第十九届中国地理信息科学理论与方法学术年会（专题报告）, 西安, 2024.10.  
+\[6] &nbsp; 矩阵引导的可解释性时空集成预测方法. 第十九届中国地理信息科学理论与方法学术年会（<font color="red">学生论文竞赛特等奖</font>）, 西安, 2024.10.  
 
 <!-- \[1] &nbsp; 空间交互中的分区域重力模型 (in Chinese). 第二十届中国地理信息科学理论与方法学术年会（专题报告）, 厦门, 2025.11.  
 \[2] &nbsp; On commuting duration and the daily travel time budget. NetMob 2025 (Data challenge track, Oral), Conservatoire National des Arts et Métiers, Paris, 2025.10. [\[extended abstract\]](../docs/netmob25.pdf)

@@ -22,5 +22,5 @@ author_profile: true
 ## Education
 * Ph.D. in Cartography and Geographic Information Systems <span style="float:right;"> Institute of Geographic Sciences and Natural Resources Research, Sept 2023 - Now </span> 
 
-* B.S. in Geographical Information Science <span style="float:right;"> China University of Geosciences, Wuhan, Sept 2019 - Jul 2023 </span>
+* B.S. in Geographical Information Science <span style="float:right;"> China University of Geosciences(Wuhan), Sept 2019 - Jul 2023 </span>
    * Thesis: *Ensemble Learning Methods Considering Geospatial Heterogeneity*
