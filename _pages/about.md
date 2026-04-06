@@ -21,3 +21,13 @@ redirect_from:
 - Please follow my team’s WeChat official account:
 
 <img src="/images/Team_account.jpg" class="qrcode-img" alt="Team WeChat Account" />
+
+## Education
+* Ph.D. in Cartography and Geographic Information Systems <span style="float:right;"> Peking University, Sept 2020 - Jul 2025 </span>  
+   * Supervisor: Prof. Lun Wu and Prof. Yu Liu
+   * Thesis: *Automatic Zoning Methods for Modeling Spatial Process Heterogeneity*
+
+* B.S. in Mathematics and Applied Mathematics (second major) <span style="float:right;"> Peking University, Sept 2017 - Jul 2020 </span>
+
+* B.S. in Geographical Information Science <span style="float:right;"> Peking University, Sept 2016 - Jul 2020 </span>
+   * Thesis: *Estimating Gravitational Attractions of Chinese Cities Using Web Search Index Data*
