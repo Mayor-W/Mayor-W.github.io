@@ -21,9 +21,3 @@ redirect_from:
 - Please follow my team’s WeChat official account:
 
 <img src="/images/Team_account.jpg" class="qrcode-img" alt="Team WeChat Account" />
-
-## Education
-* Ph.D. in Cartography and Geographic Information Systems <span style="float:right;"> Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Sept 2023 - Now </span>  
-
-* B.S. in Geographical Information Science <span style="float:right;"> China University of Geosciences, Wuhan, Sept 2019 - Jul 2023 </span>
-   * Thesis: *Ensemble Learning Methods Considering Geospatial Heterogeneity*
