@@ -13,19 +13,19 @@ author_profile: true
 
 ## Leading author publications
 
-\[10] <b>RegionGCN: Spatial-Heterogeneity-Aware Graph Convolutional Networks</b><br>
+\[1] <b>RegionGCN: Spatial-Heterogeneity-Aware Graph Convolutional Networks</b><br>
 &emsp;&emsp;<b>Hao Guo</b>, Han Wang, Di Zhu, Lun Wu, A. Stewart Fotheringham, Yu Liu<br>
 &emsp;&emsp;<i>[Annals of the American Association of Geographers](https://www.tandfonline.com/doi/full/10.1080/24694452.2025.2558661)</i>, 2025. [\[arXiv\]](https://arxiv.org/abs/2501.17599) [\[code\]](https://github.com/Nithouson/RegionGCN) [\[exposition\]](https://mp.weixin.qq.com/s/5MSv7WkNgGPpcBG_MNYbeQ)<br>
 
-\[9] &nbsp; <b>Tackling spatial heterogeneity in geographical analysis: An overview</b> (空间异质性建模方法)<br>
+\[2] &nbsp; <b>Tackling spatial heterogeneity in geographical analysis: An overview</b> (空间异质性建模方法)<br>
 &emsp;&emsp;<b>Hao Guo</b>, Lei Dong, Lun Wu, Yu Liu<br>
 &emsp;&emsp;<i>[Acta Geographica Sinica](https://www.geog.com.cn/CN/10.11821/dlxb202503001) </i>(地理学报), 2025. [\[exposition\]](https://mp.weixin.qq.com/s?__biz=MzIyODgzNTQ0NQ==&mid=2247489723&idx=1&sn=b967173f387a6af7c5039b29d2a021bf)<br>
 
-\[5] &nbsp; <b>Extending regionalization algorithms to explore spatial process heterogeneity</b><br>
+\[3] &nbsp; <b>Extending regionalization algorithms to explore spatial process heterogeneity</b><br>
 &emsp;&emsp;<b>Hao Guo</b>, Andre Python, Yu Liu<br>
 &emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2266493)</i>, 2023. [\[arXiv\]](https://arxiv.org/abs/2206.09429) [\[code\]](https://github.com/Nithouson/regreg) [\[exposition\]](https://mp.weixin.qq.com/s/4SE9RsdzoJ6nv0nH4PRyPQ) [\[errata\]](https://github.com/Nithouson/regreg/blob/main/README.md#errata)<br>
 
-\[1] &nbsp; <b>Understanding China’s urban system evolution from web search index data</b><br>
+\[4] &nbsp; <b>Understanding China’s urban system evolution from web search index data</b><br>
 &emsp;&emsp;<b>Hao Guo\*</b>, Weiyu Zhang\*, Haode Du\*, Chaogui Kang, Yu Liu<br>
 &emsp;&emsp;<i>[EPJ Data Science](https://link.springer.com/article/10.1140/epjds/s13688-022-00332-y)</i>, 2022. [\[code\]](https://github.com/Nithouson/BaiduCityAttr) [\[exposition\]](https://mp.weixin.qq.com/s/1co-W74Zk3j6rcAAyJQnhQ)<br>
 
@@ -56,12 +56,12 @@ author_profile: true
 &emsp;&emsp;<i>[Acta Geodaetica et Cartographica Sinica](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2022.20220125) </i>(测绘学报), 2022.<br>
 
 ## Talks
-\[1] &nbsp; 调和深度学习与时空异质性方法谱系与未来路径. 第二十届中国地理信息科学理论与方法学术年会（专题报告）, 厦门, 2025.11.  
-\[2] &nbsp; 时空智能集成预测方法. "人工智能时代的中国地理学" 第二届全国信息地理学大会（专题报告）, 成都, 2025.8.  
-\[3] &nbsp; 时空智能集成预测方法. 中国地理学会地理模型与地理信息分析专业委员会2025年学术年会（专题报告）, 杭州, 2025.4.  
+\[1] &nbsp; 调和深度学习与时空异质性方法谱系与未来路径. 第二十届中国地理信息科学理论与方法学术年会 (专题报告), 厦门, 2025.11.  
+\[2] &nbsp; 时空智能集成预测方法. "人工智能时代的中国地理学" 第二届全国信息地理学大会 (专题报告), 成都, 2025.8.  
+\[3] &nbsp; 时空智能集成预测方法. 中国地理学会地理模型与地理信息分析专业委员会2025年学术年会 (专题报告), 杭州, 2025.4.  
 \[4] &nbsp; Automated spatiotemporal graph ensemble learning for traffic prediction (Poster). Transportation Research Symposium (TRS 2025), Rotterdam, 2025.5.  
-\[5] &nbsp; 顾及地理空间异质性的集成学习方法研究. 第十九届中国地理信息科学理论与方法学术年会（专题报告）, 西安, 2024.10.  
-\[6] &nbsp; 矩阵引导的可解释性时空集成预测方法. 第十九届中国地理信息科学理论与方法学术年会（<font color="red">学生论文竞赛特等奖</font>）, 西安, 2024.10.  
+\[5] &nbsp; 顾及地理空间异质性的集成学习方法研究. 第十九届中国地理信息科学理论与方法学术年会 (专题报告), 西安, 2024.10.  
+\[6] &nbsp; 矩阵引导的可解释性时空集成预测方法. 第十九届中国地理信息科学理论与方法学术年会 (<font color="red">学生论文竞赛特等奖</font>), 西安, 2024.10.  
 
 <!-- \[1] &nbsp; 空间交互中的分区域重力模型 (in Chinese). 第二十届中国地理信息科学理论与方法学术年会（专题报告）, 厦门, 2025.11.  
 \[2] &nbsp; On commuting duration and the daily travel time budget. NetMob 2025 (Data challenge track, Oral), Conservatoire National des Arts et Métiers, Paris, 2025.10. [\[extended abstract\]](../docs/netmob25.pdf)
