@@ -20,7 +20,7 @@ author_profile: true
    * Thesis: *Estimating Gravitational Attractions of Chinese Cities Using Web Search Index Data* -->
 
 ## Education
-* Ph.D. in Cartography and Geographic Information Systems <span style="float:right;"> Institute of Geographic Sciences and Natural Resources Research, 2023.9 - Now </span> 
+* 2023.9 - Now, Ph.D. in Cartography and Geographic Information Systems <span style="float:right;"> Institute of Geographic Sciences and Natural Resources Research </span> 
 
-* B.S. in Geographical Information Science <span style="float:right;"> China University of Geosciences (Wuhan), 2019.9 - 2023.7 </span>
+* 2019.9 - 2023.7, B.S. in Geographical Information Science <span style="float:right;"> China University of Geosciences (Wuhan) </span>
    * Thesis: *Ensemble Learning Methods Considering Geospatial Heterogeneity*
