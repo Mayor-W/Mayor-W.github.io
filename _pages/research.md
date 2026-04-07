@@ -34,7 +34,7 @@ author_profile: true
 
 \[5] &nbsp; <b>A tensor decomposition method based on embedded geographic meta-knowledge for urban traffic flow imputation</b><br>
 &emsp;&emsp;Shifen Cheng, Xiaoyue Luo, <b>Lizeng Wang</b>, Yuxuan Liang, Feng Lu<br>
-&emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2434665)</i>, 2025. [\[code\]](https://doi.org/10.6084/m9.figshare.25997134) [\[exposition\]]https://mp.weixin.qq.com/s/tPJ_wWiQYWgnzvilD-xCQw)<br>
+&emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2434665)</i>, 2025. [\[code\]](https://doi.org/10.6084/m9.figshare.25997134) [\[exposition\]](https://mp.weixin.qq.com/s/tPJ_wWiQYWgnzvilD-xCQw)<br>
 
 \[6] &nbsp; <b>An explainable spatial interpolation method considering spatial stratified heterogeneity</b><br>
 &emsp;&emsp;Shifen Cheng, Wenhui Zhang, <b>Lizeng Wang</b>, Feng Lu<br>
