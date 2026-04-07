@@ -13,11 +13,11 @@ author_profile: true
 
 ## Leading author publications
 
-\[1] <b>Adaptive Model Selection and Ensemble via Spatiotemporal Graph-Guided Expert Routing</b><br>
+\[1] &nbsp; <b>Adaptive Model Selection and Ensemble via Spatiotemporal Graph-Guided Expert Routing</b><br>
 &emsp;&emsp;<b>Lizeng Wang</b>, Shifen Cheng, Feng Lu<br>
 &emsp;&emsp;<i>[Information Processing and Management](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2358052)</i>, 2026. [\[code\]](https://figshare.com/articles/dataset/Data_and_codes_for_GSH_EL/23947284) [\[exposition\]]()<br>
 
-\[2] <b>LGA-EL: a spatio-temporal adaptive ensemble method with local-global awareness for traffic prediction</b> (局部-全局联合感知的时空自适应交通集成预测方法) <br>
+\[2] &nbsp; <b>LGA-EL: a spatio-temporal adaptive ensemble method with local-global awareness for traffic prediction</b> (局部-全局联合感知的时空自适应交通集成预测方法) <br>
 &emsp;&emsp;<b>Lizeng Wang</b>, Shifen Cheng, Yitao Yang, Peixiao Wang, Feng Lu<br>
 &emsp;&emsp;<i>[Acta Geodaetica et Cartographica Sinica](http://xb.chinasmp.com/CN/10.11947/j.AGCS.2026.20250340)</i>(测绘学报), 2026. [\[code\]](https://figshare.com/s/3234111192b43a8140de) [\[exposition\]](https://mp.weixin.qq.com/s/w4khj3M6ij0lzRjzfzWJng)<br>
 
@@ -25,7 +25,7 @@ author_profile: true
 &emsp;&emsp;<b>Lizeng Wang</b>, Shifen Cheng, Feng Lu<br>
 &emsp;&emsp;<i>[Knowledge-Based Systems](https://www.sciencedirect.com/science/article/abs/pii/S0950705124015405) </i>, 2025. [\[code\]](https://figshare.com/s/3234111192b43a8140de) [\[exposition\]](https://mp.weixin.qq.com/s/KKEOKh2v_2m8nErK5NNfsA)<br>
 
-\[4] <b>An ensemble spatial prediction method considering geospatial heterogeneity</b><br>
+\[4] &nbsp; <b>An ensemble spatial prediction method considering geospatial heterogeneity</b><br>
 &emsp;&emsp;Shifen Cheng, <b>Lizeng Wang</b>, Peixiao Wang, Feng Lu<br>
 &emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2358052)</i>, 2024. [\[code\]](https://figshare.com/articles/dataset/Data_and_codes_for_GSH_EL/23947284) [\[exposition\]](https://mp.weixin.qq.com/s/yb1P2hfsgsQxFF52m8lIQg)<br>
 
