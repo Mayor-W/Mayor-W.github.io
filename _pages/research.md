@@ -34,15 +34,19 @@ author_profile: true
 
 \[5] &nbsp; <b>A tensor decomposition method based on embedded geographic meta-knowledge for urban traffic flow imputation</b><br>
 &emsp;&emsp;Shifen Cheng, Xiaoyue Luo, <b>Lizeng Wang</b>, Yuxuan Liang, Feng Lu<br>
-&emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2434665)</i>, 2025. [\[code\]](https://doi.org/10.6084/m9.figshare.25997134) <br>
+&emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2434665)</i>, 2025. [\[code\]](https://doi.org/10.6084/m9.figshare.25997134) [\[exposition\]]https://mp.weixin.qq.com/s/tPJ_wWiQYWgnzvilD-xCQw)<br>
 
 \[6] &nbsp; <b>An explainable spatial interpolation method considering spatial stratified heterogeneity</b><br>
 &emsp;&emsp;Shifen Cheng, Wenhui Zhang, <b>Lizeng Wang</b>, Feng Lu<br>
-&emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2426067)</i>, 2024. [\[code\]](https://doi.org/https://doi.org/10.6084/m9.figshare.25688703) <br>
+&emsp;&emsp;<i>[International Journal of Geographical Information Science](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2426067)</i>, 2024. [\[code\]](https://doi.org/10.6084/m9.figshare.25688703) [\[exposition\]](https://mp.weixin.qq.com/s/TEelbuGAZkpkWeVPKa0GFQ)<br>
 
-\[7] &nbsp; <b>A Global Context-aware and Batch-independent Network for road extraction from VHR satellite imagery</b><br>
+\[7] &nbsp; <b>A Road-Detail Preserving Framework for Urban Road Extraction From VHR Remote Sensing Imagery</b><br>
+&emsp;&emsp;Ziye Wang, Zheng Luo, Qiqi Zhu, Sisi Peng, Longli Ran, Yanan Zhang, <b>Lizeng Wang</b>, et al. <br>
+&emsp;&emsp;<i>[IEEE Transactions on Geoscience and Remote Sensing](https://doi.org/10.1109/TGRS.2024.3495508)</i>, 2025. <br> 
+
+\[8] &nbsp; <b>A Global Context-aware and Batch-independent Network for road extraction from VHR satellite imagery</b><br>
 &emsp;&emsp;Qiqi Zhu, Yannan Zhang, <b>Lizeng Wang</b>, Qingfeng Guan, et al. <br>
-&emsp;&emsp;<i>[ISPRS Journal of Photogrammetry and Remote Sensing](https://doi.org/10.1016/j.isprsjprs.2021.03.016)</i>, 2021. <br> 
+&emsp;&emsp;<i>[ISPRS Journal of Photogrammetry and Remote Sensing](https://doi.org/10.1016/j.isprsjprs.2021.03.016)</i>, 2021. [\[exposition\]](https://mp.weixin.qq.com/s/FLq_Z7BErPCM0Eluh9m9Iw)<br> 
 
 ## Talks
 \[1] &nbsp; 调和深度学习与时空异质性方法谱系与未来路径. 第二十届中国地理信息科学理论与方法学术年会 (专题报告), 厦门, 2025.11.  
