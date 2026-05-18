@@ -15,7 +15,7 @@ author_profile: true
 
 \[1] &nbsp; <b>Adaptive Model Selection and Ensemble via Spatiotemporal Graph-Guided Expert Routing</b><br>
 &emsp;&emsp;<b>Lizeng Wang</b>, Shifen Cheng, Feng Lu<br>
-&emsp;&emsp;<i>[Information Processing and Management](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2358052)</i>, 2026. [\[code\]](https://figshare.com/s/94f83d4f887810160c86) [\[exposition\]](https://mp.weixin.qq.com/s/b0MvCHOS6X51fb9ph5-SdA)<br>
+&emsp;&emsp;<i>[Information Processing and Management](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002050)</i>, 2026. [\[code\]](https://figshare.com/s/94f83d4f887810160c86) [\[exposition\]](https://mp.weixin.qq.com/s/b0MvCHOS6X51fb9ph5-SdA)<br>
 
 \[2] &nbsp; <b>LGA-EL: a spatio-temporal adaptive ensemble method with local-global awareness for traffic prediction</b> (局部-全局联合感知的时空自适应交通集成预测方法) <br>
 &emsp;&emsp;<b>Lizeng Wang</b>, Shifen Cheng, Yitao Yang, Peixiao Wang, Feng Lu<br>
