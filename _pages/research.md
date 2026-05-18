@@ -56,6 +56,8 @@ author_profile: true
 \[5] &nbsp; 顾及地理空间异质性的集成学习方法研究. 第十九届中国地理信息科学理论与方法学术年会 (专题报告), 西安, 2024.10.  
 \[6] &nbsp; 矩阵引导的可解释性时空集成预测方法. 第十九届中国地理信息科学理论与方法学术年会 (<font color="red">学生论文竞赛特等奖</font>), 西安, 2024.10.  
 
+
+
 <!-- \[1] &nbsp; 空间交互中的分区域重力模型 (in Chinese). 第二十届中国地理信息科学理论与方法学术年会（专题报告）, 厦门, 2025.11.  
 \[2] &nbsp; On commuting duration and the daily travel time budget. NetMob 2025 (Data challenge track, Oral), Conservatoire National des Arts et Métiers, Paris, 2025.10. [\[extended abstract\]](../docs/netmob25.pdf)
 \[3] &nbsp; 顾及空间异质性的地理回归方法 (in Chinese, with Prof. Yu Liu). 中国地理学会地理模型与地理信息分析专业委员会2024年学术年会（专题报告）, 北京, 2024.8.  
