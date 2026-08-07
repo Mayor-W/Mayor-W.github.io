@@ -57,7 +57,7 @@ author_profile: true
 &emsp;&emsp;<i>[ISPRS Journal of Photogrammetry and Remote Sensing](https://doi.org/10.1016/j.isprsjprs.2021.03.016)</i>, 2021. [\[exposition\]](https://mp.weixin.qq.com/s/FLq_Z7BErPCM0Eluh9m9Iw)<br> 
 
 ## Talks
-\[1] &nbsp; Reconciling Deep Learning with Spatiotemporal Heterogeneity: A Geographic Perspective (Presentation). CPGIS 2026, Singapore, 2026.8.
+\[1] &nbsp; Reconciling Deep Learning with Spatiotemporal Heterogeneity: A Geographic Perspective (Presentation). CPGIS 2026, Singapore, 2026.7.
 \[2] &nbsp; 调和深度学习与时空异质性方法谱系与未来路径. 第二十届中国地理信息科学理论与方法学术年会 (专题报告), 厦门, 2025.11.  
 \[3] &nbsp; 时空智能集成预测方法. "人工智能时代的中国地理学" 第二届全国信息地理学大会 (专题报告), 成都, 2025.8.  
 \[4] &nbsp; 时空智能集成预测方法. 中国地理学会地理模型与地理信息分析专业委员会2025年学术年会 (专题报告), 杭州, 2025.4.  
